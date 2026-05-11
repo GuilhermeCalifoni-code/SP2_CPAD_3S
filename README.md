@@ -62,6 +62,6 @@ Nossa solução substitui a prancheta por automação e inteligência, dividida 
 
 ## 🚀 6. Protótipo Navegável
 
-🔗 **[INSERIR AQUI O LINK PÚBLICO DO FIGMA]**
+🔗 **https://www.figma.com/design/lgoS66omffEvXrJEwU7PRL/Motiva-field?node-id=0-1&t=4Q9oQ6Hyrzuv6sa0-1**
 
 *(Nota para o avaliador: O protótipo é totalmente navegável. Siga o fluxo principal clicando nos botões interativos para simular a jornada de campo).*
